@@ -1,0 +1,5 @@
+# This is the codeowner file that specifies which users are able to approve pull requests
+
+# This specifies that the team under the org owns all files in the repo
+
+* @glutenfreehackerscollective/Devs
