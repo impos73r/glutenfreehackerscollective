@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Welcome one, welcome all! The Gluten Free Hackers Collective is here to help you find gluten free eats, wherever you venture through cyberspace takes you. 
