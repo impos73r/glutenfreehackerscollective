@@ -6,3 +6,16 @@ url: https://glutenfreehackerscollective.org
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# Logo in browser tab
+favicon_ico: "/assets/images/logo.jpg"
+
+# Ow, my eyes!!
+color_scheme: dark
+
+# Enable or disable the side/mobile menu globally
+nav_enabled: true
+
+
+# Logo on home page
+logo: "/assets/images/logo.jpg"
