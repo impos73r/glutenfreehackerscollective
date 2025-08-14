@@ -4,7 +4,7 @@ layout: home
 parent: Hacker Summer Camp
 nav_order: 3
 ---
-Page for Defcon
+Page for BSides Las Vegas
 
 ----
 
