@@ -1,6 +1,6 @@
 ---
 title: Wild West Hackin Fest
-layout: home
+layout: default
 parent: Conferences
 nav_order: 2
 ---
