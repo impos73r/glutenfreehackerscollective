@@ -1,6 +1,6 @@
 ---
 title: BSides Las Vegas
-layout: home
+layout: default
 parent: Hacker Summer Camp
 nav_order: 3
 ---

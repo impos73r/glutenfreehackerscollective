@@ -1,6 +1,6 @@
 ---
 title: Black Hat
-layout: home
+layout: default
 parent: Hacker Summer Camp
 nav_order: 1
 ---
